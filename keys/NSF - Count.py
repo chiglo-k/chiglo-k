@@ -14,12 +14,10 @@ total_box = int(input('\nКоличество ящиков : '))
 weight_on_all = count(total_count, total_box)
 print(f'\nОбщее {weight_on_all}')
 number_of_grade = int(input('\nВведите сколько размеров продукции : '))
-nsf_tot = 0
 while number_of_grade != 0 :
     number_of_grade -= 1
     count_2 = int(input('\nВведите количество: '))
     nsf = count_nsf (weight_on_all, count_2)
-    nsf_tot += nsf
     print(f'\nКоличество образцов: {nsf}')
 else:
     print(f'\nEnd {nsf_tot}')
