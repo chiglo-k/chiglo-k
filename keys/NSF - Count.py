@@ -20,4 +20,4 @@ while number_of_grade != 0 :
     nsf = count_nsf (weight_on_all, count_2)
     print(f'\nКоличество образцов: {nsf}')
 else:
-    print(f'\nEnd {nsf_tot}')
+    print(f'\nEnd {nsf}')
