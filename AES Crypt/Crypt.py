@@ -1,13 +1,21 @@
 import crypt
 import hashlib
 import base64
-
+import random
 import Cryptodome.Cipher.AES
 from Cryptodome.Cipher import AES
 import os
+from hashlib import sha256
 
-text = b'Brute'
-key = b'123'
-key_hash = AES.new(key, AES.MODE_CBC)
-ciphertext, tag = key_hash.encrypt_and_digest(text)
-print(ciphertext)
+
+BS = AES.block_size
+pad = lambda s: s + (BS - len(s) % BS) * chr(BS - len(s) % BS)
+
+text = 'HomeWork'
+key = hashlib.sha256(b'123').digest()
+text = pad(text)
+iv = Random.new().read(BS)
+cipher = AES.new(key, AES.MODE_CBC, iv)
+crypt_text = (iv + cipher.encrypt(text.encode()))
+print('\nCipher:', crypt_text.hex())
+
