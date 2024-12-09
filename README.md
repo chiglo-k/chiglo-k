@@ -13,7 +13,7 @@ Data Analyst and Data Engineer with 3+ years of experience in data analysis and 
 - Technologies: Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20px">, Apache Spark <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="ApacheSpark" width="20px">, Airflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="20px">, Grafana <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="20px">, Superset <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3p-kGkr1Z77BI7eSTOMPwPA7WJuvxINEYUg&s" alt="Superset" width="20px">, Tableau <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9CDjV9OYKhZgwM7vMHOWxilbZgaP_QAocw&s" alt="Tableau" width="20px">, Streamlit <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="20px">, Jupyter Notebook <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="20px">
 
 ## Projects
-- DB Checker: [GitHub Repository Link](https://github.com/chiglo-k/DB_Checker) - Open-source tool for database checks.
+- DB Checker: [GitHub Repository Link](https://github.com/chiglo-k/DB_Checker) - tool for database checks.
 
 ## Experience
   - Data Analyst & Database Designer (3+ years)
