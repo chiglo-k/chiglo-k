@@ -36,7 +36,10 @@ Data Analyst and Data Engineer with 3+ years of experience in data analysis and 
 </div>
 
 ## Some little about my hobbies:
-- Hacking (https://academy.hackthebox.com/my-badges)
+- Hacking
+  - Some HTB Badges:
+    - [JavaScript Deobfuscation](https://academy.hackthebox.com/achievement/badge/76fdbaa0-277c-11ee-acfc-bea50ffe6cb4)
+    - [XSS](https://academy.hackthebox.com/achievement/badge/2f64fd1e-60ef-11ee-aac4-bea50ffe6cb4)
 - Learning new programming languages
 - Learning new natural languages
 - Drone programming
