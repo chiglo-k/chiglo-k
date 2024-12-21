@@ -35,6 +35,12 @@ Data Analyst and Data Engineer with 3+ years of experience in data analysis and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40px">
 </div>
 
+## Achievements
+
+- Certificate F.A.C.C.T (Group-IB) Specialist in Information Security: [Certificate F.A.C.C.T](https://drive.google.com/file/d/15EZCnlwkLAUlF_qKmlPuE84emaivkpvA/view?usp=sharing)
+- Certificate Yandex Data Analyst Professional Training Course: [Certificate of Yandex](https://drive.google.com/file/d/1I6UAwpF_ZA3gSFuUnytxE4QNhvxnXQyM/view?usp=sharing)
+
+
 ## Some little about my hobbies:
 - Hacking
   - Some HTB Badges:
