@@ -10,7 +10,20 @@ Data Analyst and Data Engineer with 3+ years of experience in data analysis and 
 - Programming Languages: Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20px">, C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20px">, Bash <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="20px">, DAX <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="20px">, MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20px">, PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20px">
 - Spoken Languages: English, Spanish, Russian, Basic Chinese
 - Professions: Data Analyst, Data Engineer
-- Technologies: Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20px">, Apache Spark <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="ApacheSpark" width="20px">, Airflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="20px">, Grafana <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="20px">, Superset <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3p-kGkr1Z77BI7eSTOMPwPA7WJuvxINEYUg&s" alt="Superset" width="20px">, Tableau <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9CDjV9OYKhZgwM7vMHOWxilbZgaP_QAocw&s" alt="Tableau" width="20px">, Streamlit <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="20px">, Jupyter Notebook <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="20px">
+- Technologies:
+    Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20px">
+    Apache Spark <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="ApacheSpark" width="20px">
+    Airflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="20px">
+    Power Query <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Power Query" width="20px">
+    Pentaho <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="Pentaho" width="60px">
+    MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20px">
+    Grafana <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="20px">
+    Superset <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3p-kGkr1Z77BI7eSTOMPwPA7WJuvxINEYUg&s" alt="Superset" width="20px">
+    
+    Tableau <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9CDjV9OYKhZgwM7vMHOWxilbZgaP_QAocw&s" alt="Tableau" width="20px">
+    Streamlit <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="20px">
+    Jupyter Notebook <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="20px">
+
 
 ## Projects
 - [DB_Checker](https://github.com/chiglo-k/DB_Checker/tree/main) - tool for database checks.
@@ -28,6 +41,10 @@ Data Analyst and Data Engineer with 3+ years of experience in data analysis and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="ApacheSpark" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40px">
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="Pentaho" width="70px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Power Query" width="40px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3p-kGkr1Z77BI7eSTOMPwPA7WJuvxINEYUg&s" alt="Superset" width="40px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9CDjV9OYKhZgwM7vMHOWxilbZgaP_QAocw&s" alt="Tableau" width="40px">
