@@ -1,7 +1,7 @@
 # Hello, I'm Chiglo-K 👋
 
 ## About Me
-Data Analyst and Data Engineer with 3+ years of experience in data analysis and database design.
+BI-Analyst and Data Engineer with 3+ years of experience in data analysis and database design.
 
 ## Contact Information
 - 📫 Email: chiglok.tech@gmail.com
@@ -29,7 +29,7 @@ Data Analyst and Data Engineer with 3+ years of experience in data analysis and 
 - [DB_Checker](https://github.com/chiglo-k/DB_Checker/tree/main) - tool for database checks.
 
 ## Experience
-  - Data Analyst & Database Designer (3+ years)
+  - BI-Analyst & Database Designer (3+ years)
   - Developed databases for foreign economic activity
   - Analyzed fuel costs for ships
   - Created Streamlit applications for real-time monitoring of enterprise activities
