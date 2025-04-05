@@ -1,7 +1,7 @@
 # Hello, I'm Chiglo-K 👋
 
 ## About Me
-BI-Analyst and Data Engineer with 3+ years of experience in data analysis and database design.
+BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and database design.
 
 ## Contact Information
 - 📫 Email: chiglok.tech@gmail.com
