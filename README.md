@@ -9,7 +9,7 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
 ## Skills
 - Programming Languages: Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20px">, C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20px">, Bash <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="20px">, DAX <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="20px">, MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20px">, PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20px">
 - Spoken Languages: English, Spanish, Russian, Basic Chinese
-- Professions: Data Analyst, Data Engineer
+- Professions: BI-Analyst, Data Engineer
 - Technologies:
     Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20px">
     Apache Spark <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="ApacheSpark" width="20px">
