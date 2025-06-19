@@ -34,7 +34,8 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
    
 
 ## Projects
-- [DB_Checker](https://github.com/chiglo-k/DB_Checker/tree/main) - tool for database checks.
+- [DB_Checker](https://github.com/chiglo-k/DB_Checker/tree/main) - Tool for database checks.
+- [SQL Extension](https://github.com/chiglo-k/SQL_Extension_Data_Check/tree/main) - Extension for null check data
 
 ## Experience
   - BI-Analyst & Database Designer (3+ years)
