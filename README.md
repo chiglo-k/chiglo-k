@@ -41,7 +41,6 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
 ## Experience
   - BI-Analyst & Database Designer (3+ years)
   - Developed databases for foreign economic activity
-  - Analyzed fuel costs for ships
   - Created Streamlit applications for real-time monitoring of enterprise activities
   - Implemented efficient JSON parsing of large datasets for data analysis
   - Developed interactive maps for visualizing ship routes and operations
