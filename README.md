@@ -36,7 +36,7 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
     Tableau <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9CDjV9OYKhZgwM7vMHOWxilbZgaP_QAocw&s" alt="Tableau" width="20px">
     Streamlit <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="20px">
     Jupyter Notebook <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="20px">
-   
+    Zeppelin <img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_logo.png" alt="Zeppelin" width="20px">
 
 ## Projects
 - [DB_Checker](https://github.com/chiglo-k/DB_Checker/tree/main) - Tool for database checks
