@@ -16,15 +16,20 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
     Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20px">
     Yandex Cloud <img src="https://habrastorage.org/getpro/habr/upload_files/0f4/a70/5a6/0f4a705a66cd08a9acc7f38b759716fc.png" alt="YandexCloud" width="40px">
 
-    Apache Spark <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="ApacheSpark" width="20px">
+    PySpark <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PySpark" width="20px">
     Airflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="20px">
     Power Query <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Power Query" width="20px">
     Pentaho <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="Pentaho" width="60px">
+    Rust <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="20px">
     
     PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20px">
     HIVE <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="HIVE" width="20px">
     MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20px">
     MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20px">
+    ClickHouse <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse" width="20px">
+    Greenplum  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Greenplum" width="20px">
+    Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="20px">
+    YTsaurus <img src="https://avatars.githubusercontent.com/u/114298925?s=200&v=4" alt="YTsaurus" width="20px">
     
     Grafana <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="20px">
     Superset <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3p-kGkr1Z77BI7eSTOMPwPA7WJuvxINEYUg&s" alt="Superset" width="20px">
