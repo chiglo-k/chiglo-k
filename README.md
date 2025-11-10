@@ -8,7 +8,7 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
 
 ## Skills
 - Programming Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20px">, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="20px">, <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="20px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30px">, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="30px">, <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="30px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL" width="52px">
 - Spoken Languages: English, Spanish, Russian, Basic Chinese
 - Professions: BI-Analyst/Developer, Data Engineer
 - Technologies:
