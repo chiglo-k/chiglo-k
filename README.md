@@ -10,7 +10,7 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
 - Programming Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20px">, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20px">, Bash <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="20px">, <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="20px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL" width="42px">
 - Spoken Languages: English, Spanish, Russian, Basic Chinese
-- Professions: BI-Analyst, Data Engineer
+- Professions: BI-Analyst/Developer, Data Engineer
 - Technologies:
   
     Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20px">
