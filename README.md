@@ -8,7 +8,7 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
 
 ## Skills
 - Programming Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20px">, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20px">, Bash <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="20px">, <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="20px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20px">, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="20px">, <img src="https://logowik.com/content/uploads/images/dax7506.logowik.com.webp" alt="DAX" width="20px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL" width="42px">
 - Spoken Languages: English, Spanish, Russian, Basic Chinese
 - Professions: BI-Analyst/Developer, Data Engineer
 - Technologies:
@@ -20,7 +20,7 @@ BI-Analyst and Data Engineer with 3+ years of experience in BI-analysis and data
     Airflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="20px">
     Power Query <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Power Query" width="20px">
     Pentaho <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="Pentaho" width="60px">
-    Rust <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="20px">
+    
     
     PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20px">
     HIVE <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="HIVE" width="20px">
