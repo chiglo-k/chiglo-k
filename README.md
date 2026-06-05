@@ -56,7 +56,7 @@ Zeppelin <img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppel
 
 ## Projects
 - [DB_Checker](https://github.com/chiglo-k/DB_Checker/tree/main) - Tool for database checks
-- [SQL Extension](https://github.com/chiglo-k/SQL_Extension_Data_Check/tree/main) - Extension for null check data
+- [Lakehouse on YTsaurus](https://github.com/chiglo-k/ytsaurus_k3s_ycloud) - MVP Data Lakehouse on YTsaurus
 - [Mapper API](https://github.com/chiglo-k/Mapper) - FastAPI solution for mapping different types of files
 
 ## Experience
