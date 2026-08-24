@@ -61,7 +61,7 @@ Zeppelin <img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppel
 
 ## Experience
   - **Data Platform Architect, Data Engineer and BI-Analyst  (3+ years)**
-  - Designed modern data lakehouse architectures using Apache Iceberg, S3, and Hive Metastore
+  - Designed modern data lakehouse architectures using Apache Iceberg, S3, and polaris
   - Implemented ETL/ELT pipelines with Apache Airflow and PySpark for processing multi-format data (xlsx, json, tiff, xml, shp, geospatial data)
   - Developed data quality frameworks using Great Expectations and implemented data contracts
   - Architected Bronze/Silver/Gold data layers following medallion architecture principles
